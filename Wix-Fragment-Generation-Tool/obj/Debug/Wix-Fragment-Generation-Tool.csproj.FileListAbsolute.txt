@@ -1,0 +1,7 @@
+D:\work\Wix-Fragment-Generation-Tool\bin\Debug\Wix-Fragment-Generation-Tool.exe.config
+D:\work\Wix-Fragment-Generation-Tool\bin\Debug\Wix-Fragment-Generation-Tool.exe
+D:\work\Wix-Fragment-Generation-Tool\bin\Debug\Wix-Fragment-Generation-Tool.pdb
+D:\work\Wix-Fragment-Generation-Tool\obj\Debug\Wix-Fragment-Generation-Tool.csproj.AssemblyReference.cache
+D:\work\Wix-Fragment-Generation-Tool\obj\Debug\Wix-Fragment-Generation-Tool.csproj.CoreCompileInputs.cache
+D:\work\Wix-Fragment-Generation-Tool\obj\Debug\Wix-Fragment-Generation-Tool.exe
+D:\work\Wix-Fragment-Generation-Tool\obj\Debug\Wix-Fragment-Generation-Tool.pdb
